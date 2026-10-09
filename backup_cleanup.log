@@ -1,0 +1,9 @@
+=============================================
+Backup and Cleanup Started: Fri Oct  9 14:31:52 IST 2026
+=============================================
+--> Creating backup of test_folder folder...
+[SUCCESS] Backup created successfully: backups/backup_20261009_143151.tar.gz
+---------------------------------------------
+--> Searching for files older than 7 days in test_folder...
+[SUCCESS] Cleanup check completed.
+=============================================
